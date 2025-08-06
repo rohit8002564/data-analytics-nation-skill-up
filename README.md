@@ -23,5 +23,5 @@ To build a solid foundation in data analytics by learning concepts and immediate
 ---
 
 ## 🚀 Stay Connected
-Follow my journey on [LinkedIn](www.linkedin.com/in/rohit-kumar-478687246)  
+Follow my journey on [LinkedIn](https://www.linkedin.com/in/rohit-kumar-478687246/)  
 📅 Hashtags: `#DataAnalytics` `#NationSkillUp` `#Python` `#LearningInPublic`
