@@ -1,0 +1,25 @@
+-- Step 1: Create Database
+CREATE DATABASE SchoolDB;
+
+-- Step 2: Use the database
+USE SchoolDB;
+
+-- Step 3: Create Table
+CREATE TABLE Students (
+    StudentID INT PRIMARY KEY,
+    Name VARCHAR(50) NOT NULL,
+    Age INT,
+    Grade CHAR(1)
+);
+
+-- Step 4: Insert 5 students
+INSERT INTO Students (StudentID, Name, Age, Grade)
+VALUES
+(1, 'Rohit', 20, 'A'),
+(2, 'Priya', 19, 'B'),
+(3, 'Aman', 21, 'A'),
+(4, 'Sneha', 20, 'C'),
+(5, 'Vikram', 22, 'B');
+
+-- Step 5: View data
+SELECT * FROM Students;
